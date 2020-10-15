@@ -1,0 +1,265 @@
+body{
+color:blue;
+	margin:0;
+	padding:0;
+	background:grey;
+}
+.wrapper
+{
+	background:white;
+	height:768px;
+	width:1024px;
+	margin:0 auto;	
+}
+ 
+}
+.header{
+	height:150px;
+	width:1024px;
+	float:left;
+	background:brown;
+	
+}
+.Sjc_title{
+	height:150px;
+	width:676px;
+	float:left;
+	
+	background:brown;
+	word-spacing:10px;
+	letter-spacing:3px;
+	
+}
+.adrs{
+	font-size:16px;
+	margin-top:-10px;
+	margin-left:-19px;
+}
+ .logo2{
+	height:150px;
+	width:170px;
+	background:brown;
+	float:left;
+		
+} 
+.Ncclogo1{
+	height:138px;
+	width:178px;
+	float:right;
+	margin-top:8px;
+	background:brown;
+		
+} 
+
+.menu
+{
+	float:left;
+	height:58px;
+	width:1024px;
+	background:#FFC54D;
+	margin-left:px;
+}
+ul.nav{
+	margin-left:0px;
+	margin:0px;
+	padding:0px;
+	list-style:none;	
+}
+ul.nav li a{
+	
+	margin:-30px;
+	background:#FFC54D;
+	float:left;
+	text-decoration:none;
+	color:#F0F0F0;
+	letter-spacing:0.5px;
+	margin-left:80px;
+	margin-top:25px;
+}
+ul.nav a:hover{
+	background:#FFC54D;
+color:brown;}
+
+.nav a.active{
+		background-color:white;
+		color:#7AC3CA;
+	}
+.content{
+	height:760px;
+	width:1024px;
+	background:#FCF3E7;
+}
+/* .sjcpic{
+	height:560px;
+	width:1024px;
+	background:#FCF3E7;
+} */
+.one{
+height:560px;
+width:1024px;
+background:white;
+float:left;	
+}
+img.slider{
+	height:560px;
+	width:1024px;
+	float:left;
+	background:#FCF3E7;
+	}
+	.slider{
+	height:560px;
+width:1024px;
+margin-top:14px;
+background:white;
+float:left;		 
+}
+.slider1{
+	margin:5px 0px 0px px;
+}
+.types{
+	height:308px;
+width:1024px;
+background:white;
+margin:left;		
+		margin-bottom:px;
+	}
+	
+	.contentss{
+		height:960px;
+	width:1024px;
+	background:#FCF3E7;
+		
+	}
+	.content2{
+		height:860px;
+	width:1024px;
+	background:#FCF3E7;
+		
+	}
+	/* ul.portfolio li nccimg{
+		height:200px;
+		width:300px;
+	} */
+/* ul.Portfolio{
+		margin:0px;
+		padding:0px;
+		list-style:none;
+	}		
+	ul.Portfolio li{
+	height:280px;
+width:230px;
+background:#F8F2F2;
+text-align:center;
+margin:13px;
+float:left;	
+	}
+	ul.Portfolio li h3
+	{
+		background:#F1651A;
+		color:white;
+		padding:10px;
+		margin-top:0px;
+	}
+	
+	ul.Portfolio li a.buy{
+		background:#72C8D0;
+		margin:15px;
+		padding:5px;
+		text-decoration:none;
+		color:white;
+		
+	} */
+	
+	
+.footer{
+	
+	height:40px;
+	width:1024px;
+	background:#58504E;
+	text-indent:20px;
+padding:0.5px;
+	float:left;
+	color:white;
+}
+.footer p 
+{
+	margin-top:10px;
+}
+
+.
+
+
+h3{
+	color:brown;
+	text-indent:20px;
+}
+
+
+
+
+h4{
+	color:black;
+	text-align:center;
+}
+
+
+
+
+	
+	h2{
+	color:#F06216;
+	text-indent:10px;
+	}
+	p.adrs{
+		margin-left:15px;
+		
+	}
+	
+	
+	
+	h3.mrs{
+		text-indent:5px;
+		color:#F06216;;
+	}
+	
+	ul.Portfolios{
+		margin:0px;
+		padding:0px;
+		list-style:none;
+	}
+	ul.Portfolios img{
+	height:200px;
+width:300px;
+margin:20.5px;
+background:white;
+float:left;	
+display:block;
+	}
+	p.his{
+		color:#A52A2A;
+		font-size:20px;
+		margin-left:20px;
+	}
+	p.para{
+		color:brown;
+		margin-left:20px;
+	}	
+	/* .first{
+		height:760px;
+		width:512px;
+		background:blue;
+		float:left;
+		
+	}
+	.two{
+		height:760px;
+		width:512px;
+		background:green;
+	}
+	 */
+	 .Ncclg{
+		 height:200px;
+		 width:300px;
+		 float:center;
+		 margin-left:200px;
+	 }
